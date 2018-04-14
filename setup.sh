@@ -1,7 +1,7 @@
 #!/bin/sh
 
 TORRENT=http://academictorrents.com/download/5daa22057577521a378b71e0f0de6a934bd5c2ea.torrent
-EFS_DIR=efs
+EFS_DIR=~/efs
 DOWNLOAD_DIR=$EFS_DIR/Downloads
 EFS_FILE_SYSTEM=fs-c5f95c8d.efs.us-east-1.amazonaws.com
 
