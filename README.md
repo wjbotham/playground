@@ -1,8 +1,8 @@
 # playground
 
 ```
-yum -y install git
-git clone https://github.com/wjbotham/playground.git
+sudo yum -y install git
+sudo git clone https://github.com/wjbotham/playground.git
 cd playground
-./setup.sh
+sudo sh ./setup.sh
 ```
