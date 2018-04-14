@@ -6,7 +6,7 @@ DOWNLOAD_DIR=$EFS_DIR/Downloads
 EFS_FILE_SYSTEM=fs-c5f95c8d.efs.us-east-1.amazonaws.com
 
 # Download deps
-yum -y install nfs-utils
+yum -y install amazon-efs-utils
 yum -y install transmission-cli transmission-common transmission-daemon
 
 # Mount the EFS 
